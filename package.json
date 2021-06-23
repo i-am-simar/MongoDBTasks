@@ -1,0 +1,15 @@
+{
+  "name": "project-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Simarjeet Singh",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.0.1",
+    "mongoose": "^5.12.14"
+  }
+}
